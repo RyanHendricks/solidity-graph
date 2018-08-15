@@ -19,13 +19,9 @@ Options:
   -o, --output <outputDir>  Set an specific output dir
   -c, --colored             Use colored edges
   -h, --help                output usage information
-``` 
-
+```
 
 ## Examples
 
-```
-solidity-graph ./contracts/tokens --colored
-```
 ![tokens](./tokens.png)
 ![ownership](./ownership.png)
