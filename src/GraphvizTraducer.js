@@ -41,11 +41,11 @@ class GraphvizTraducer {
 
   _buildGraphMetadata() {
     this.data = "digraph Output {\n" +
-      "fontname = \"Bitstream Vera Sans\"\n" +
-      "fontsize = 8\n" +
+      "fontname = \"Fira Code Regular\"\n" +
+      "fontsize = 12\n" +
       "node [\n" +
-      "fontname = \"Bitstream Vera Sans\"\n" +
-      "fontsize = 8\n" +
+      "fontname = \"Fira Code Regular\"\n" +
+      "fontsize = 12\n" +
       "shape = \"record\"\n" +
       "]\n" +
       "edge [\n" +
